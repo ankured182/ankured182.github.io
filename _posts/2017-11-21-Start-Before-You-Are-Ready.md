@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You should start before you are ready
+title: Start before you are ready
 published: true
 ---
 
