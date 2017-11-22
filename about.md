@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-Ankur Debnath is a Microsoft certified software developer,based in Dhaka,Bangladesh, specialized in developing high performing,secure,SEO friendly web and mobile applications.He has been working with Microsoft Asp.NET Technologies since 2008.
+Ankur Debnath is a Microsoft certified software developer,based in Dhaka,Bangladesh.He specializes in developing high performing,secure,SEO friendly web and mobile applications.He has been working with Microsoft Asp.NET Technologies since 2008.
 
 He currently works as a Senior Software Engineer in [Dragon IT & Communication Ltd](http://www.ditcl-dragonbd.com)
 
