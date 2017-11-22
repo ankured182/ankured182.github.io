@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why you should start before you are ready
+title: You should start before you are ready
 published: true
 ---
 
