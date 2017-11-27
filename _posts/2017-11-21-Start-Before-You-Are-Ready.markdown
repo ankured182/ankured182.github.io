@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Start before you are fully ready
+title: Start Before You Are Fully Ready
 published: true
 ---
 
