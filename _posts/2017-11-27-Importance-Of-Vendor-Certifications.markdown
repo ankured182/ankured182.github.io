@@ -5,7 +5,7 @@ published: true
 ---
 
 It is always a good investment to do vendor certifications like MCSD,MCP(microsoft)
-,CCNA(cisco),ORACLE DB administration because it serves as a proof to your potential employer of your capability.
+,CCNA(cisco),ORACLE DB administration because it serves as a proof of your capability to your potential employer .
 
 While each company may have its own unique way of doing tasks,if they use any of the technologies (IT related) above,then you are automatically ahead of your competitor.
 
