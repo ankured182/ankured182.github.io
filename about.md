@@ -7,8 +7,9 @@ Ankur Debnath is a Microsoft certified software developer,based in Dhaka,Banglad
 
 He currently works as a Senior Software Engineer in [Dragon IT & Communication Ltd](http://www.ditcl-dragonbd.com).He specializes in Accounting,Commercial,Inventory,Retail,Life Insurance business domains.
 
-Educational Qualification : MS in Computer Science ,Jahangirnagar University,Dhaka,Bangladesh
-                            B.E. in Electronics & Communication ,BMS College Of Engineering
+### Educational Qualification : 
+*MS in Computer Science ,Jahangirnagar University,Dhaka,Bangladesh.
+*B.E. in Electronics & Communication ,BMS College Of Engineering
 
 ### Technologies
  
