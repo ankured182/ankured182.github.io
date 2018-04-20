@@ -1,9 +1,9 @@
 
 Is there someone on your team who seems unusually productive? Someone who gets a huge amount done — without working longer hours?
 
-*Super-productive people are in every industry. The most productive software developers write nine times more usable code per day than the average developer, according to research by Michael Mankins. He also found that the best fish butcher at Le Bernardin Restaurant in New York can prepare three times as much fish as the average, the best blackjack dealer keeps their table playing five times longer, and the best sales associate at Nordstrom sells eight times more clothes.
+*Super-productive people are in every industry. The most productive software developers write nine times more usable code per day than the average developer, according to research by Michael Mankins. He also found that the best fish butcher at Le Bernardin Restaurant in New York can prepare three times as much fish as the average, the best blackjack dealer keeps their table playing five times longer, and the best sales associate at Nordstrom sells eight times more clothes.*
 
-**How do they do it? That’s what their coworkers usually wonder. We wanted to know too.
+**How do they do it? That’s what their coworkers usually wonder. We wanted to know too.**
 
 We collected data on over 7,000 people who were rated by their manager on their level of their productivity and 48 specific behaviors. Each person was also rated by an average of 11 other people, including peers, subordinates, and others. We identified the specific behaviors that were correlated with high levels of productivity — the top 10% in our sample — and then performed a factor analysis.
 
