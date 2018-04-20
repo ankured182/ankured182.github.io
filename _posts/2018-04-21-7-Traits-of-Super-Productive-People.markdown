@@ -1,7 +1,3 @@
-layout: post
-title: 7 Traits of Super-Productive People
-published: true
----
 
 Is there someone on your team who seems unusually productive? Someone who gets a huge amount done — without working longer hours?
 
