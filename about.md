@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 ---
 Ankur Debnath is a professional software application engineer,based in Dhaka,Bangladesh.
+
 He specializes in Accounting,Commercial(Export/Import),Inventory,Retail,Life Insurance business domains.
 He loves experimenting with internet marketing and also follows cricket and football with avid interest.
 
