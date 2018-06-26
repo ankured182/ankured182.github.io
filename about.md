@@ -15,7 +15,7 @@ He loves experimenting with internet marketing and also follows cricket and foot
 
 ### Educational Qualification : 
 * MS in Computer Science ,Jahangirnagar University,Dhaka,Bangladesh.
-* B.E. in Electronics & Communication ,BMS College Of Engineering.
+* B.E. in Electronics & Communication ,BMS College Of Engineering,Bangalore,India.
 
 ### Contact 
 
