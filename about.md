@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 Ankur Debnath is a professional software engineer,based in Dhaka,Bangladesh. He deals with Microsoft Technologies since 2008.
-He specializes in Accounting,Commercial(Garments),Inventory,Retail,Life Insurance business domains.
+He specializes in Accounting,Commercial(Export/Import),Inventory,Retail,Life Insurance business domains.
 
 ### Technologies
  
