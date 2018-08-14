@@ -1,5 +1,6 @@
 *SETH GODIN is a bestselling author, entrepreneur and agent of change.
-Godin is author of ten books that have been bestsellers around the world*
+Godin is author of ten books that have been bestsellers around the world.
+Most importantly for me, He publishes a blog post every day*
 
 **Provide Value** The best way to market since a long itme is to provide so much value,that people getting talking about it and spreading your idea
 
