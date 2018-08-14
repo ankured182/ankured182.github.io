@@ -2,6 +2,7 @@
 layout: post
 title: Start Before You Are Fully Ready
 published: true
+comments: true
 ---
 
 You should start before you are fully ready,so you can prepare yourself for the future.
