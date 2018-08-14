@@ -1,6 +1,9 @@
 *SETH GODIN is a bestselling author, entrepreneur and agent of change.
-Godin is author of ten books that have been bestsellers around the world. 
-His most recent titles include The Dip and Meatball Sundae*
+Godin is author of ten books that have been bestsellers around the world*
+
+https://imgur.com/3OHxLcL
+
+[Imgur](https://i.imgur.com/3OHxLcL.jpg)
 
 **Provide Value** The best way to market since a long itme is to provide so much value,that people getting talking about it and spreading your idea
 
