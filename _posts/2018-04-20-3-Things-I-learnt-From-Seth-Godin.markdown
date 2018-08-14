@@ -1,8 +1,6 @@
 *SETH GODIN is a bestselling author, entrepreneur and agent of change.
 Godin is author of ten books that have been bestsellers around the world*
 
-![Image Trials](https://i.imgur.com/3OHxLcL.jpg)
-
 **Provide Value** The best way to market since a long itme is to provide so much value,that people getting talking about it and spreading your idea
 
 **Build a tribe** Build a following of 1000 people in your social media i.e  youtube subscribers or twitter followers
