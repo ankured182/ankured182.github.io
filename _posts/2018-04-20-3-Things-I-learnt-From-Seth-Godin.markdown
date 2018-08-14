@@ -1,6 +1,3 @@
-*SETH GODIN is a bestselling author, entrepreneur and agent of change.
-Godin is author of ten books that have been bestsellers around the world.
-Most importantly for me, He publishes a blog post every day*
 
 **Provide Value** The best way to market since a long itme is to provide so much value,that people getting talking about it and spreading your idea
 
@@ -11,3 +8,6 @@ Most importantly for me, He publishes a blog post every day*
 as much if you dont get your hands dirty. Go , start writing that blog post that you have been thinking of, or anything that you have been
 procastinating for too long
   
+*SETH GODIN is a bestselling author, entrepreneur and agent of change.
+Godin is author of ten books that have been bestsellers around the world.
+Most importantly for me, He publishes a valuable blog post every day*
