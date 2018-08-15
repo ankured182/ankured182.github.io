@@ -6,6 +6,7 @@ image: "/images/skylip.jpg"
 ---
 
 ![](https://ankurdebnath.com/images/skylip.jpg)
+
 You should start before you are fully ready,so you can prepare yourself for the future.
 
 Press the buzzer even before you think about the answer. 
