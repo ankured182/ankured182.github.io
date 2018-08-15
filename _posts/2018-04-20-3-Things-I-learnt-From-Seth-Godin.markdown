@@ -1,4 +1,4 @@
-![Imgur](https://i.imgur.com/PDRCa2Q.jpg)
+![Imgur](https://ankurdebnath.com/images/test.jpg)
 
 
 **Provide Value** The best way to market since a long itme has been to provide so much value,that people getting talking about it and spreading your idea
