@@ -1,7 +1,7 @@
 ![Imgur](https://i.imgur.com/PDRCa2Q.jpg)
 
 
-**Provide Value** The best way to market since a long itme is to provide so much value,that people getting talking about it and spreading your idea
+**Provide Value** The best way to market since a long itme has been to provide so much value,that people getting talking about it and spreading your idea
 
 **Build a tribe** Build a following of 1000 people in your social media i.e  youtube subscribers or twitter followers
  Once you build 1000 followers ,they will share and spread your ideas and promote you
