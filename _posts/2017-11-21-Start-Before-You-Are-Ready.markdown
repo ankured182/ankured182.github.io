@@ -2,7 +2,7 @@
 layout: post
 title: Start Before You Are Fully Ready
 published: true
-image: "https://ankurdebnath.com/images/test.jpg"
+image: "https://ankurdebnath.com/images/skylip.jpg"
 ---
 
 You should start before you are fully ready,so you can prepare yourself for the future.
