@@ -1,4 +1,4 @@
-![Imgur](https://i.imgur.com/PDRCa2Q.jpg){:height="700px" width="400px"}
+![Imgur](https://i.imgur.com/PDRCa2Q.jpg)
 
 
 **Provide Value** The best way to market since a long itme is to provide so much value,that people getting talking about it and spreading your idea
