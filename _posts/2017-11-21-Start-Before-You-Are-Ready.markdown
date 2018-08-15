@@ -2,7 +2,7 @@
 layout: post
 title: Start Before You Are Fully Ready
 published: true
-image: "images/skylip.jpg"
+image: "/images/skylip.jpg"
 ---
 
 You should start before you are fully ready,so you can prepare yourself for the future.
