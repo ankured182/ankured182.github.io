@@ -1,6 +1,11 @@
 
+---
+layout: post
+title: 3 Things I Learnt from Seth Godin
+published: true
+image: "/images/skylip.jpg"
+---
 
-![Imgur](https://ankurdebnath.com/images/skylip.jpg)
 
 **Provide Value** The best way to market since a long itme has been to provide so much value,that people getting talking about it and spreading your idea
 
