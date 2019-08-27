@@ -1,1 +1,1 @@
-Ankur Debnath is a Microsoft certified software developer, who likes to build web & mobile apps , with emphasis on performance,scalability & Security. He has more than 8 years of experience in developing software solutions in the Microsoft platform.
+Hi my name is Ankur Debnath . I have experience in building web & mobile apps , with emphasis on performance,scalability & Security. I have more than 10 years of experience in developing software solutions,especially in the Microsoft platform.
