@@ -3,10 +3,12 @@ layout: page
 title: About
 permalink: /about/
 ---
-Ankur Debnath is a professional software application engineer,based in Dhaka,Bangladesh.
+Hi I am Ankur Debnath,a professional software application engineer,based in Dhaka,Bangladesh.
 
-He specializes in Accounting,Commercial(Export/Import),Inventory,Retail,Life Insurance business domains.
-He loves experimenting with internet marketing and also follows cricket and football with avid interest.
+I specialize in Accounting,Commercial(Export/Import),Inventory,Retail,Life Insurance business domains.
+I love experimenting with internet marketing and also follow Music,Cricket and Football(soccer) with avid interest.
+
+I currently work in Dragon IT & Communication Ltd in Dhaka,Bangladesh.
 
 ### Technologies
  
