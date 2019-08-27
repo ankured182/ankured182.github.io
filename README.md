@@ -1,1 +1,1 @@
-Hi my name is Ankur Debnath . I have experience in building web & mobile apps , with emphasis on performance,scalability & Security. I have more than 10 years of experience in developing software solutions,especially in the Microsoft platform.
+Hi my name is Ankur Debnath . I am from Bangladesh. I have experience in building web & mobile apps , with emphasis on performance,scalability & Security. I have more than 10 years of experience in developing software solutions,especially in the Microsoft platform.
