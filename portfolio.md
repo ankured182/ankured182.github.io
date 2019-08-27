@@ -7,7 +7,9 @@ permalink: /portfolio/
 ### Here are some of the projects I worked in!
 
 * Life Insurance ERP Solution
+---
 * Garments ERP Solution(Sweater Industry)
+---
 * Hospitality Management Solution
 ---
 
