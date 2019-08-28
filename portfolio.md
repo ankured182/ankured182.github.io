@@ -18,6 +18,7 @@ permalink: /portfolio/
 ---
 * Ecommerce Application for [Fresh](www.e-freshstore.com) 
 ---
+<a href="https://google.com/" target="_blank">Hello, world!</a>
 
 I specialize in the accounting domain . I have decent ideas and implementation experience in this field.
 I can develop systems in line with the IFRS standards and can provide solutions regarding handling big data volumes and performance issues.
