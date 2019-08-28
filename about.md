@@ -16,7 +16,6 @@ I currently work in Dragon IT & Communication Ltd in Dhaka,Bangladesh.
 * SQL Server,physical database design , analyzing and optimizing sql queries for high scalabity and performance.
 
 ### Educational Qualification : 
-* MS in Computer Science ,Jahangirnagar University,Dhaka,Bangladesh.
 * B.E. in Electronics & Communication ,BMS College Of Engineering,Bangalore,India.
 
 ### Contact 
