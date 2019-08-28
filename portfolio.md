@@ -23,5 +23,5 @@ permalink: /portfolio/
 I specialize in the accounting domain . I have decent ideas and implementation experience in this field.
 I can develop systems in line with the IFRS standards and can provide solutions regarding handling big data volumes and performance issues.
 
-I mostly use Asp.net MVC/WebAPI,Javascript/Jquery,SQL Server but I also have experience with Java,Android Studio,PHP,MySql
+I mostly use Asp.net MVC/WebAPI,Javascript/Jquery,Bootstrap,SQL Server but I also have experience with Java,Android Studio,PHP,MySql
 
