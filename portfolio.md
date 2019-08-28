@@ -16,9 +16,9 @@ permalink: /portfolio/
 ---
 * Poker game backbone using PHP 
 ---
-* Ecommerce Application for [Fresh](www.e-freshstore.com) 
+* Ecommerce Application for one of the biggest business names in the country  <a href="http://www.e-freshstore.com/" target="_blank">Fresh</a>
 ---
-<a href="https://google.com/" target="_blank">Hello, world!</a>
+
 
 I specialize in the accounting domain . I have decent ideas and implementation experience in this field.
 I can develop systems in line with the IFRS standards and can provide solutions regarding handling big data volumes and performance issues.
