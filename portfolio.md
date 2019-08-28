@@ -15,6 +15,6 @@ permalink: /portfolio/
 * Retail Management Solution
 ---
 
-My specialization is on accounting domain . I have decent ideas and implementation experience in this field.
+My specialization is in the accounting domain . I have decent ideas and implementation experience in this field.
 I can develop systems in line with the IFRS standards and can provide solutions regarding handling big data volumes and performance issues.
 
