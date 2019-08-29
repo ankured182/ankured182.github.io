@@ -16,7 +16,7 @@ permalink: /portfolio/
 ---
 * Poker game backbone using PHP 
 ---
-* Ecommerce Application for one of the biggest business names in the country  <a href="http://www.e-freshstore.com/" target="_blank">Fresh</a>
+* Ecommerce Application   <a href="http://www.e-freshstore.com/" target="_blank">Fresh</a>
 ---
 
 
