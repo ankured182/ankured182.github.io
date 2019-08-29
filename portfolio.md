@@ -6,7 +6,7 @@ permalink: /portfolio/
 
 ### I have been lucky enough to have been involved in developing software applications from the scratch and observe business processes and requirements directly first hand!
 
-* Life Insurance ERP Solution
+* Life Insurance ERP Solution 
 ---
 * Garments ERP Solution(Sweater Industry)
 ---
@@ -18,7 +18,10 @@ permalink: /portfolio/
 ---
 * Ecommerce Application   <a href="http://www.e-freshstore.com/" target="_blank">Fresh</a>
 ---
-
+* Accounting System
+---
+* Commercial Management
+---
 
 I specialize in the accounting domain . I have decent ideas and implementation experience in this field.
 I can develop systems in line with the IFRS standards and can provide solutions regarding handling big data volumes and performance issues.
