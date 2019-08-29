@@ -22,6 +22,8 @@ permalink: /portfolio/
 ---
 * Commercial Management
 ---
+* Inventory Management
+---
 
 I specialize in the accounting domain . I have decent ideas and implementation experience in this field.
 I can develop systems in line with the IFRS standards and can provide solutions regarding handling big data volumes and performance issues.
